@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gunda Venkata Sai
 - 👀 I’m interested in Machine Learning, Deep Learning and NLP
-- 🌱 I’m a 3rd year UG student at IIT Kharagpur
+- 🌱 I’m a Final year UG student at IIT Kharagpur
 - 📫 You can reach me at gundavenkatasai53@gmail.com
 - 🌱 My aim is to combine technology and science to make this world a better place to live.
 
