@@ -1,6 +1,6 @@
 # Venkata Sai Gunda
 
-🎓 Studying **Computer Science** at Arizona State University | B.Tech at **IIT Kharagpur**  
+🎓 MS (Thesis) **Computer Science** at Arizona State University | B.Tech at **IIT Kharagpur**  
 📞: 6023492193 | 📧: [gundavenkatasai53@gmail.com](mailto:gundavenkatasai53@gmail.com) | 🌐: [LinkedIn](https://www.linkedin.com/in/venkata-sai-gunda/)
 ## Featured Projects & Research
 
