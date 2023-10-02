@@ -16,3 +16,6 @@
 
 - 🔍 Research on  **Foundational Models (LMM & LLM)**, **Data Mining**, **Computer Vision**, and **Machine Learning**
 - 🛠 Proficient in Python, C/C++, Git, Linux/Unix, Pytorch, and Data Science tools
+
+
+Feel free to shoot a mail, it can be regarding anything. I love connecting with people.
